@@ -11,7 +11,7 @@ in this assessment is for you to:
 Clone the project files from the following repository:
 
 ```text
-https://gitlab.csc.tntech.edu/csc2310-sp21-students/youruserid/youruserid-vizshark.git
+https://gitlab.csc.tntech.edu/csc2310-sp21-students/youruserid/youruserid-lab-midterm.git
 ```
 
 The files that are downloaded will appear in the following directories:
